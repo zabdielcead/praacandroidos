@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:title="Contactos"
+            android:id="@+id/menuContactos"
+            app:showAsAction="never"
+    />
+    <item
+            android:id="@+id/menuCompartir"
+            android:title="Compartir"
+            app:showAsAction="never"
+        />
+    <item
+            android:id="@+id/menuMensaje"
+            android:title="Enviar SMS"
+            app:showAsAction="never"
+    />
+</menu>

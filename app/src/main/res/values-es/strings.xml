@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidDos</string>
+    <string name="anko_alert">"Hola anko alert"</string>
+    <string name="superSaludo">":D súper!"</string>
+    <string name="tristeSaludo">"ohhh :("</string>
+    <string name="masAlerta">"mas alerta"</string>
+    <string name="fechaNacimiento">"Birth date"</string>
+    <string name="calculaEdad">"CALCULA EDAD"</string>
+    <string name="nuevo">"Nuevos"</string>
+    <string name="progressDialog">"DIALOGO PROGRESO"</string>
+    <string name="listAlert">"LISTA ALERTA"</string>
+    <string name="simpleAlert">"ALERTA SIMPLE"</string>
+    <string name="alertAnko">"Anko Alert"</string>
+
+</resources>
